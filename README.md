@@ -5,6 +5,8 @@ I've built a simple react app that demonstrates how LaunchDarkly's SDK works and
 Below, you'll find the insutrctions on how to build a simple React app and how to implement a feature flag with LaunchDarkly's SDK, but for more comprehensive instructions, you can visit [this guide](https://docs.launchdarkly.com/sdk/client-side/react?q=sdk).
 
 Build instructions 
+
+
 The React SDK is based on the JavaScript SDK. After you complete the Getting started process, follow [these instructions](https://docs.launchdarkly.com/sdk/client-side/react/react-web?q=sdk#getting-started) to start using the LaunchDarkly React SDK in your React code.It will automatically use the latest release of the LaunchDarkly SDK with major version 6.
 
 Edit src/app.js and set the value of clientSideID to your LaunchDarkly Client-side ID. You can find your Client-side ID by going to your LaunchDarkly, Account Settings > Projects > select your porject name > grab the Client-side ID for the Environment you wish to use. 
