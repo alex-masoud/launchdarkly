@@ -30,7 +30,7 @@ function App() {
 
 export default withLDProvider({
 
-  clientSideID: '6571434fccbc380f54f4ff85',
+  clientSideID: '6571434fccbc3xxxxxxxxx',
   options: {
   bootstrap: 'localStorage'
   },
