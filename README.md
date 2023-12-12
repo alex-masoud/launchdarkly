@@ -1,3 +1,5 @@
+# LaunchDarkly React SDK Feature Flag Implementation
+### Simple Logo Switch Feature Flag Example
 I've built a simple react app that demonstrates how LaunchDarkly's SDK works and how to implement a simple feature flag. This feature flag will switch between 2 different logos depending on if the feature flag is set to True or False.
 
 Below, you'll find the insutrctions on how to build a simple React app and how to implement a feature flag with LaunchDarkly's SDK, but for more comprehensive instructions, you can visit [this guide](https://docs.launchdarkly.com/sdk/client-side/react?q=sdk).
